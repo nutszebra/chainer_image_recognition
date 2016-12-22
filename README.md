@@ -14,7 +14,7 @@
 
 [150206 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852 "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification"): https://github.com/nutszebra/prelu_net  
 
-[150722 Training Very Deep Networks](https://arxiv.org/abs/1507.06228 "Training Very Deep Networks"): soon  
+[150722 Training Very Deep Networks](https://arxiv.org/abs/1507.06228 "Training Very Deep Networks"): https://github.com/nutszebra/highway_networks  
 
 [151210 Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385 "Deep Residual Learning for Image Recognition"): https://github.com/nutszebra/original_residual_net  
 
